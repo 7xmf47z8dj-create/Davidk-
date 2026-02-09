@@ -1,4 +1,4 @@
-# 📘 MANUAL DE DESARROLLO - BOT DE TRADING MEMCOINS SOLANA  
+ MANUAL DE DESARROLLO - BOT DE TRADING MEMCOINS SOLANA  
   
 ## Sistema Completo de Trading en Pump.fun con Telegram en Rust para Pop!_OS  
   
